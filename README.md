@@ -17,3 +17,5 @@ The goal is to provide a public portfolio of my achievements, with links and evi
 - MTA: Software Development Fundamentals – Microsoft
 
 ## 🌐 Online View
+
+This repository also includes a public GitHub Pages site, where certifications can be viewed in HTML format:
