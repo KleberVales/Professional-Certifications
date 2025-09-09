@@ -15,3 +15,5 @@ The goal is to provide a public portfolio of my achievements, with links and evi
 - Scrum Fundamentals Certified (SFC™) – ScrumStudy
 - Oracle Certified Associate, Java SE 7 Programmer (OCAJP7) – Oracle
 - MTA: Software Development Fundamentals – Microsoft
+
+## 🌐 Online View
