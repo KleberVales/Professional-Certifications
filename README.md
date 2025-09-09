@@ -7,3 +7,4 @@ The goal is to provide a public portfolio of my achievements, with links and evi
 ## 🎯 Purpose
 
 - Centralize and organize all my certifications in one place.
+- Provide quick access through GitHub Pages.
